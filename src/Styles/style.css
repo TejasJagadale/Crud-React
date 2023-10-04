@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(to bottom right, skyblue, Pink);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 71vh;
+}
